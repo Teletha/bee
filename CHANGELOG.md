@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.9.0](https://www.github.com/Teletha/bee/compare/v0.8.0...v0.9.0) (2021-07-07)
+
+
+### Features
+
+* Support annotation processor on maven. ([7053921](https://www.github.com/Teletha/bee/commit/7053921fcfb2f632570d5d13c78be51893e1dab7))
+
+
+### Bug Fixes
+
+* Integrate CI and Git task. ([4e6b32c](https://www.github.com/Teletha/bee/commit/4e6b32c123188d41c165fd621ee9d018380a486b))
+* Remove enable-preview option. ([98e9036](https://www.github.com/Teletha/bee/commit/98e9036435236d33f720e912007b3136c96e4f08))
+* Test task can detect the existence of test class. ([454f24c](https://www.github.com/Teletha/bee/commit/454f24c4a2512921bf3e12ec2a6dad0d0d528731))
+* Update version. ([33a2f74](https://www.github.com/Teletha/bee/commit/33a2f7409442661a51b1e130905e6cea85974762))
+
 ## [0.8.0](https://www.github.com/Teletha/bee/compare/v0.7.0...v0.8.0) (2021-03-28)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.65.0](https://github.com/teletha/bee/compare/v0.64.0...v0.65.0) (2024-12-17)
+
+
+### Features
+
+* add bun task ([28607bd](https://github.com/teletha/bee/commit/28607bd7468a2aded13f951117e3865d69bb4bd2))
+
+
+### Bug Fixes
+
+* remove build request on github action ([25ebcd1](https://github.com/teletha/bee/commit/25ebcd1f23d534d45652ab271599c040ec1ba906))
+* use Platform constants ([4f3f877](https://github.com/teletha/bee/commit/4f3f877809e620d091d113012340695bfdb12bcc))
+
 ## [0.64.0](https://github.com/teletha/bee/compare/v0.59.0...v0.64.0) (2024-11-16)
 
 
